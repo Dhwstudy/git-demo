@@ -1,6 +1,34 @@
-hello git           master test2
-hello hot-fix branch
-hello hot-fix test
-hello master test
-hello master test
-hello hot-fix test
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+hello git
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+hello.txt[+] [dos] (10:11 29/08/2022)                                    7,1 All
+-- INSERT --
+
