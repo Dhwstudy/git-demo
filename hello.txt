@@ -15,6 +15,6 @@ hello git
 hello git
 changger
 sshchangger
-hello.txt[+] [dos] (10:11 29/08/2022)                                    7,1 All
+pushchangger                                    7,1 All
 -- INSERT --
 
